@@ -1,0 +1,1 @@
+This project detects fake job postings using deep learning–based data augmentation to handle class imbalance. The Random Forest model achieved 98% accuracy, enhancing fraud detection and making online job platforms more secure, reliable, and trustworthy.
